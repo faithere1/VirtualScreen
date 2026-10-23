@@ -20,6 +20,15 @@ Pin live views of any app window above everything else, cropped to exactly what 
 
 Working on a single laptop screen, away from your desk? VirtualScreen lives in your menu bar. Pick a window, drag out the part you care about (a chat, a terminal, a video, a dashboard) and it floats as a **mini screen**: live, resizable, always on top. Open as many as you like. Each one stays until you close it.
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="docs/screenshot-dark.png">
+    <img src="docs/screenshot-light.png" width="860" alt="Three VirtualScreen mini screens (a dashboard chart, a group chat and lecture slides) floating above a code editor">
+  </picture>
+  <br>
+  <sub>Illustration: a dashboard, a group chat and lecture slides pinned above your work.</sub>
+</p>
+
 ## ✨ Features
 
 |   |   |
